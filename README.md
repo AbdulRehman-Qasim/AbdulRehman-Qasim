@@ -43,15 +43,34 @@ I’m a Software Engineer and Full Stack Developer focused on building scalable 
 
 I care deeply about clean architecture, intuitive UI/UX, and products that are both technically strong and easy to use. I enjoy solving hard problems, integrating AI-driven features, and shaping reliable digital experiences with strong performance, maintainability, and quality.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRehman-Qasim&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=E6EDF3" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman-Qasim&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" height="170" alt="GitHub streak" />
-</div>
+## GitHub Insights
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman-Qasim&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00D4FF&text_color=E6EDF3" height="170" alt="Top languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulRehman-Qasim&theme=onedark&no-frame=true&margin-w=10&margin-h=10&column=4" height="170" alt="GitHub trophies" />
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AbdulRehman-Qasim&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=E6EDF3" width="100%" alt="GitHub stats" />
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman-Qasim&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="100%" alt="GitHub streak" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman-Qasim&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00D4FF&text_color=E6EDF3" width="100%" alt="Top languages" />
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AbdulRehman-Qasim&theme=onedark&no-frame=true&margin-w=10&margin-h=10&column=2" width="100%" alt="GitHub trophies" />
+
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehman-Qasim&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=38BDF8&point=E6EDF3" width="100%" alt="Contribution graph" />
