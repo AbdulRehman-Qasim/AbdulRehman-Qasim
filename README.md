@@ -45,32 +45,26 @@ I care deeply about clean architecture, intuitive UI/UX, and products that are b
 
 ## GitHub Insights
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulRehman-Qasim&theme=tokyonight" width="100%" alt="GitHub profile details" />
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbdulRehman-Qasim&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=E6EDF3" width="100%" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdulRehman-Qasim&theme=tokyonight" width="100%" alt="GitHub stats" />
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman-Qasim&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="100%" alt="GitHub streak" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman-Qasim&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00D4FF&text_color=E6EDF3" width="100%" alt="Top languages" />
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbdulRehman-Qasim&theme=onedark&no-frame=true&margin-w=10&margin-h=10&column=2" width="100%" alt="GitHub trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdulRehman-Qasim&theme=tokyonight" width="100%" alt="Top languages by repository" />
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=AbdulRehman-Qasim&theme=tokyonight&hide_border=true" width="100%" alt="GitHub streak" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehman-Qasim&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=38BDF8&point=E6EDF3" width="100%" alt="Contribution graph" />
