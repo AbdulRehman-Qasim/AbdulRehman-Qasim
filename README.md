@@ -63,7 +63,7 @@ I care deeply about clean architecture, intuitive UI/UX, and products that are b
 </table>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AbdulRehman-Qasim&theme=tokyonight&hide_border=true" width="100%" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman-Qasim&theme=tokyonight&hide_border=true" width="100%" alt="GitHub streak" />
 </div>
 
 <div align="center">
