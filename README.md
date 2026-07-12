@@ -15,7 +15,7 @@
 <p>
   <a href="mailto:abdullrehmanmaan6@gmail.com"><img src="https://img.shields.io/badge/Email-0b1b2b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/muhammad-abdul-rehman-287400347/"><img src="https://img.shields.io/badge/LinkedIn-0b1b2b?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="https://muhammadabdulrehman.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0b1b2b?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://muhammadabdulrehman-sepia.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0b1b2b?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.abdulrehmann.tech/"><img src="https://img.shields.io/badge/Mobile%20Portfolio-0b1b2b?style=for-the-badge&logo=icloud&logoColor=white" alt="Mobile Portfolio" /></a>
 </p>
 
